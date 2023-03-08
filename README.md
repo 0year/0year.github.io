@@ -3,15 +3,12 @@
 ## λ
 
 这里是我打发时间，总结思考的地方。
+我是一个没有天赋的数学学生。也许等我显露才华会是在二十多岁以后，希望那是我还能坚持走在数学道路上。
 
-
-__刚开始用github,也没钱买域名，想试下hexo却又懒得下载安装，于是乎我打算写纯文本的文章。说真话，图片在某些方面没有文字描述来的准确。
-
-### 访问历史的文章
-<a herf="\List\all.html">此处</a>
+### [访问历史的文章](List/all.html "按年月日排序")
 
 
 
 
-# 如有错误欢迎指责。
+# 如有错误欢迎指责。邮箱地址：query@lambdas.cn
 <img src="https://github.com/fluidicon.png"  height="24" width="24" herf="https://github.com/3rfahrung">
